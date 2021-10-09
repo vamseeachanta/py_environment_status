@@ -15,6 +15,6 @@ Key references used for the package development are:
 | pypi versions | list available pypy versions | [https://pypi.org/project/pypi-version/](https://pypi.org/project/pypi-version/) |
 | luddite | package warnings | [https://github.com/jumptrading/luddite](https://github.com/jumptrading/luddite) |
 | Listing packages | Listing packages | [https://www.activestate.com/resources/quick-reads/how-to-list-installed-python-packages/](https://www.activestate.com/resources/quick-reads/how-to-list-installed-python-packages/) |
-
+| pypi vulnerability | ?? | [https://pypi.org/project/appthreat-vulnerability-db/](https://pypi.org/project/appthreat-vulnerability-db/) |
 
 
