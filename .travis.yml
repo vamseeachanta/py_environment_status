@@ -14,11 +14,12 @@ script:
 branches:
   only:
    - master
+   - feature/first_version
 after_success:
     - coveralls
 notifications:
   email:
     recipients:
-      - khelil.sator.git@gmail.com
+      - vamsee.achanta@aceengineer.com
     on_success: always
     on_failure: always
