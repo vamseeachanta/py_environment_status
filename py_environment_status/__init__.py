@@ -1,2 +1,2 @@
-from package_list import package_list
+from py_environment_status.package_list import package_list
 

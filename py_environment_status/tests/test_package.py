@@ -1,4 +1,5 @@
 import py_environment_status
 
-py_environment_status.package_list()
+def test_package_list():
+    py_environment_status.package_list()
 

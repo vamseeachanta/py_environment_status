@@ -2,5 +2,12 @@
     "python.pythonPath": "C:\\Users\\Vamsee Achanta\\miniconda3\\envs\\py_environment_status\\python.exe",
     "python.defaultInterpreterPath": "C:\\Users\\Vamsee Achanta\\miniconda3\\envs\\py_environment_status\\python.exe",
     "python.terminal.activateEnvironment": true,
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
+    "python.testing.pytestArgs": [
+        "py_environment_status"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
 }
