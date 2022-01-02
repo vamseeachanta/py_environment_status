@@ -1,0 +1,8 @@
+name : py_environment_status
+channels:
+  - defaults
+dependencies:
+  - python
+  - pytest
+  - pytest-cov
+  - coveralls
